@@ -1,0 +1,141 @@
+<div align="center">
+
+<img src="./header.svg" width="100%" alt="CHERISHYAN" />
+
+<br/>
+
+<a href="https://github.com/cherishyan"><img src="https://cdn.simpleicons.org/github/8B1E2D" width="16" height="16" alt="" />&nbsp; GitHub</a>&ensp;·&ensp;<a href="https://cherishyan.cn"><img src="https://cdn.simpleicons.org/googlechrome/8B1E2D" width="16" height="16" alt="" />&nbsp; cherishyan.cn</a>&ensp;·&ensp;<a href="mailto:lyan89806@gmail.com"><img src="https://cdn.simpleicons.org/gmail/8B1E2D" width="16" height="16" alt="" />&nbsp; lyan89806@gmail.com</a>
+
+</div>
+
+<br/>
+
+<img src="./divider.svg" width="100%" alt="" />
+
+<br/>
+
+### à propos
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+我是一个喜欢读书，也喜欢自己研究一些东西的人。
+
+最近花了很多时间读经济学，试着理解价格、激励、制度，以及人为什么会做出这样的选择。除了读书，我也喜欢把一些突然产生的想法做成具体的东西——可能是一张图表、一个网站，也可能是一台自己研究和制作的望远镜。
+
+这里记录这些正在发生的事情。
+
+</td>
+<td width="40%" valign="top">
+
+<em>NOW &ensp;· Changsha, China</em><br/>
+<em>STUDY · Central South University</em><br/>
+<em>READ &ensp;· Economics · History · Science</em><br/>
+<em>MAKE · Websites · Data · Optics</em>
+
+</td>
+</tr>
+</table>
+
+<br/>
+<img src="./divider.svg" width="100%" alt="" />
+<br/>
+
+### projets en cours &nbsp;·&nbsp; *in progress*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**`01`&ensp;牛顿反射式天文望远镜**&ensp;*· in progress*
+
+从基础光学开始研究，自己完成光学计算和结构设计，最终做出一台真正能用来看星星、看月亮的牛反望远镜。
+
+</td>
+<td width="50%" valign="top">
+
+**`02`&ensp;数据可视化**&ensp;*· in progress*
+
+把数据做得漂漂亮亮，让读者不需要费力就能看懂。重视信息的结构和叙事，而不只是图表好不好看。
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+**`03`&ensp;cherishyan.cn**&ensp;*· in progress*
+
+长期维护、长期更新的个人 IP，也是我的赛博领地。&nbsp; [↗](https://cherishyan.cn)
+
+</td>
+<td width="50%" valign="top">
+
+**`04`&ensp;Economics & Notes**&ensp;*· in progress*
+
+阅读经济学与其他感兴趣的书，把真正值得留下来的思考、笔记和问题慢慢整理下来。
+
+</td>
+</tr>
+</table>
+
+<br/>
+<img src="./divider.svg" width="100%" alt="" />
+<br/>
+
+### carnet &nbsp;·&nbsp; *tools I'm using, not things I've mastered*
+
+![HTML](https://img.shields.io/badge/HTML-8B1E2D?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-8B1E2D?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B1E2D?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8B1E2D?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-8B1E2D?style=flat-square&logo=react&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-8B1E2D?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8B1E2D?style=flat-square&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-8B1E2D?style=flat-square&logo=notion&logoColor=white)
+
+<br/>
+<img src="./divider.svg" width="100%" alt="" />
+<br/>
+
+### la galerie &nbsp;/&nbsp; *illustrations*
+
+*A small collection of things I find beautiful, interesting, or worth keeping.*
+
+<p align="center">
+  <img src="./images/2.jpg" height="200" alt="" />&nbsp;
+  <img src="./images/3.jpg" height="200" alt="" />&nbsp;
+  <img src="./images/4.jpg" height="200" alt="" />&nbsp;
+  <img src="./images/5.jpg" height="200" alt="" />&nbsp;
+  <img src="./images/6.jpg" height="200" alt="" />&nbsp;
+  <img src="./images/1.jpg" height="200" alt="" />
+</p>
+
+<br/>
+<img src="./divider.svg" width="100%" alt="" />
+<br/>
+
+### la galerie &nbsp;/&nbsp; *sea & nomad life*
+
+*Places I want to see, and a life I want to live.* &nbsp; 想去的地方，和想过的生活。
+
+<p align="center">
+  <img src="./images/7.jpg" height="200" alt="" />&nbsp;
+  <img src="./images/8.jpg" height="200" alt="" />&nbsp;
+  <img src="./images/9.jpg" height="200" alt="" />
+</p>
+
+<br/>
+<img src="./divider.svg" width="100%" alt="" />
+<br/>
+
+### contact
+
+想聊望远镜、经济学、信息设计、好看的网页，或者毕业以后去海边远程生活的可能性，欢迎写信。
+
+<p align="center"><a href="mailto:lyan89806@gmail.com"><img src="https://img.shields.io/badge/Email-8B1E2D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/cherishyan"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;<a href="https://cherishyan.cn"><img src="https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a></p>
+
+<br/>
+
+<p align="center"><img src="./tagline.svg" width="60%" alt="Changsha now · somewhere by the sea, someday." /></p>
