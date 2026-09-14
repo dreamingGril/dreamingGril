@@ -1,152 +1,468 @@
-<!--
-╔══════════════════════════════════════════════════════════╗
-     CHERISH YAN · GITHUB PROFILE README
-     Personal profile / portfolio / digital workspace
-╚══════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
-
-# C H E R I S H &nbsp; Y A N
-
-### `DIGITAL BUILDER · STUDENT · EXPLORER`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Information+Management+%40+CSU;Building+things+with+code+%26+AI;Exploring+design%2C+data+%26+economics;Learning+%E2%86%92+Building+%E2%86%92+Shipping" />
 
 <br>
 
+# C H E R I S H &nbsp; Y A N
+
+### technology · art · ideas · life
+
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=8B0000&center=true&vCenter=true&width=700&height=35&lines=Junior+Student+at+Central+South+University;Curious+about+AI%2C+Design+%26+Economics;Building+things+on+the+Internet;Learning+%E2%86%92+Building+%E2%86%92+Exploring"
+  alt="Typing SVG"
+/>
+
+<br><br>
+
 <a href="https://cherishyan.cn">
-<img src="https://img.shields.io/badge/🌐_PERSONAL_WEBSITE-8B0000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CHERISHYAN.CN-8B0000?style=for-the-badge&logoColor=white">
 </a>
+
 &nbsp;
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+
+<a href="https://github.com/dreamingGril">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
-> **Build things. Learn things. See the world.**
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/2.jpg" width="88%" alt="Illustration">
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **A student in China, looking for interesting things to build  
+> and interesting places to live.**
 
 </div>
 
 ---
 
-## `01` · ABOUT ME
+# ABOUT
+
+I'm a **junior student at Central South University**.
+
+I like learning things that sit somewhere between
+technology and everyday life.
+
+I'm curious about how people build things,
+how technology changes the way we live,
+how design changes the way we see things,
+and how economics explains the world underneath it all.
+
+I don't really want to decide too early
+what I'm supposed to become.
+
+For now, I'd rather keep exploring.
+
+---
+
+# THINGS I'M CURIOUS ABOUT
+
+<div align="center">
 
 <table>
 <tr>
-<td width="55%">
 
-### 👋 Hi, I'm Cherish.
+<td width="25%" align="center">
 
-I'm an **Information Management student** at  
-**Central South University (CSU)**.
+### `01`
 
-I'm interested in the intersection of:
+## AI
 
-- 💻 Software & Web Development
-- 🤖 Artificial Intelligence
-- 🎨 Digital Product Design
-- 📊 Data Visualization
-- 📈 Economics
-- 🌍 Remote Work & Digital Nomad Life
-
-I enjoy turning ideas into small, useful,
-and occasionally unnecessary things.
+Artificial intelligence  
+AI-assisted development  
+New ways of working
 
 </td>
 
-<td width="45%" align="center">
+<td width="25%" align="center">
 
-### 📷 VISUAL LOG
+### `02`
 
-<br>
+## DESIGN
 
-**YOUR PHOTO HERE**
-
-`replace this area with your image`
-
-<br>
-
-`STUDY · BUILD · EXPLORE`
+Web design  
+Visual culture  
+Digital products
 
 </td>
+
+<td width="25%" align="center">
+
+### `03`
+
+## ECONOMICS
+
+Markets  
+People  
+Incentives  
+How the world works
+
+</td>
+
+<td width="25%" align="center">
+
+### `04`
+
+## INTERNET
+
+Web  
+Open source  
+Digital communities  
+The future of work
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="25%" align="center">
+
+### `05`
+
+## CODE
+
+Java  
+Python  
+Web development  
+Automation
+
+</td>
+
+<td width="25%" align="center">
+
+### `06`
+
+## DATA
+
+Visualization  
+Information  
+Patterns  
+Stories
+
+</td>
+
+<td width="25%" align="center">
+
+### `07`
+
+## ART
+
+Illustration  
+Photography  
+Visual design  
+Museums
+
+</td>
+
+<td width="25%" align="center">
+
+### `08`
+
+## LIFE
+
+Travel  
+Books  
+Cities  
+The sea
+
+</td>
+
 </tr>
 </table>
 
----
-
-## `02` · CURRENTLY BUILDING
-
-<div align="center">
-
-| 🧠 LEARNING | ⚙️ BUILDING | 🎨 EXPLORING |
-|:---:|:---:|:---:|
-| Java | Spring Boot | Figma |
-| Python | Personal Website | UI / UX |
-| SQL | AI Experiments | Motion |
-| Git | Data Projects | Visual Design |
-
 </div>
 
 ---
 
-## `03` · TECH STACK
+# MY CORNER OF THE INTERNET
 
 <div align="center">
 
-### Languages
+<img src="./assets/1.jpg" width="42%" alt="Visual">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js" />
+&nbsp;&nbsp;
 
-### Development
-
-<img src="https://skillicons.dev/icons?i=spring,mysql,git,github,linux,vscode" />
-
-### Design & Tools
-
-<img src="https://skillicons.dev/icons?i=figma,ps,pr" />
+<img src="./assets/3.jpg" width="42%" alt="Visual">
 
 </div>
 
----
+<br>
 
-## `04` · SELECTED WORKS
+## `cherishyan.cn`
 
-<table>
-<tr>
+My personal website.
 
-<td width="50%">
+A small digital space for experiments,
+ideas, visual projects and things I want to remember.
 
-### 🌐 cherish-archive
+**Not a resume.**
 
-**Personal Digital Archive**
+More like a little corner of the Internet
+that belongs to me.
 
-A personal web project for collecting,
-organizing and presenting memories.
+<br>
 
-**Stack**
-
-`Java` `Spring Boot` `SQL`
+<div align="center">
 
 <a href="https://cherishyan.cn">
-→ VISIT WEBSITE
+
+### → ENTER CHERISHYAN.CN
+
 </a>
+
+</div>
+
+---
+
+# CURRENTLY
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### LEARNING
+
+Java  
+Python  
+AI  
+Web Development  
+Figma
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🤖 AI Experiments
+### EXPLORING
 
-**Small Things With AI**
+Digital Products  
+Visual Design  
+Data Visualization  
+Economics  
+Creative Technology
 
-Experiments with AI-assisted development,
-automation and creative tools.
+</td>
 
-`AI` `Python` `MCP`
+<td width="33%" align="center">
 
-→ COMING SOON
+### BUILDING
+
+Websites  
+Small Tools  
+Experiments  
+Personal Projects  
+Things I haven't named yet
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# A LIFE I'D LIKE TO TRY
+
+<div align="center">
+
+<img src="./assets/7.jpg" width="88%" alt="Tropical seaside life">
+
+</div>
+
+<br>
+
+<div align="center">
+
+## Singapore.
+
+## Thailand.
+
+## Or somewhere else.
+
+</div>
+
+<br>
+
+Maybe one day I'll work remotely
+from a small place near the sea.
+
+A simple room.
+
+A laptop.
+
+Good internet.
+
+A little balcony.
+
+A coffee in the morning.
+
+The ocean outside.
+
+And enough freedom to decide
+where I want to spend the next few months.
+
+I don't necessarily want
+to **travel all the time**.
+
+I think I would rather have
+a few places that I can slowly get to know.
+
+Maybe Singapore for a while.
+
+Maybe Thailand.
+
+Maybe somewhere I've never heard of yet.
+
+Work remotely.
+
+Build things I care about.
+
+Read.
+
+Walk around.
+
+Learn.
+
+And see what happens.
+
+---
+
+# THE IDEA
+
+<div align="center">
+
+<br>
+
+## `LEARN → BUILD → SHIP → EXPLORE`
+
+<br>
+
+</div>
+
+I don't have a perfectly defined career plan.
+
+And I'm becoming increasingly okay with that.
+
+I'd rather build a collection of skills,
+projects and experiences that give me
+more choices later.
+
+Maybe that eventually becomes
+a remote career.
+
+Maybe a small digital product.
+
+Maybe freelance work.
+
+Maybe something I haven't thought of yet.
+
+<br>
+
+**The point is to keep the door open.**
+
+---
+
+# GITHUB
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=dreamingGril&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=777777&rank_icon=github"
+  width="48%"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamingGril&layout=compact&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=777777"
+  width="40%"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=dreamingGril&bg_color=00000000&color=8B0000&line=8B0000&point=8B0000&area=true&hide_border=true"
+  width="92%"
+/>
+
+</div>
+
+---
+
+# CONTRIBUTION
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/output/github-contribution-grid-snake.svg"
+  width="90%"
+  alt="GitHub contribution snake"
+/>
+
+</div>
+
+---
+
+# TOOLS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,spring,mysql,git,github,linux,vscode,figma&perline=7" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`JAVA` · `PYTHON` · `SPRING` · `SQL` · `GIT`
+
+`WEB` · `AI` · `FIGMA` · `DATA` · `DESIGN`
+
+</div>
+
+---
+
+# VISUAL NOTES
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%">
+
+<img src="./assets/4.jpg" width="100%" alt="Visual note 01">
+
+</td>
+
+<td width="33%">
+
+<img src="./assets/5.jpg" width="100%" alt="Visual note 02">
+
+</td>
+
+<td width="33%">
+
+<img src="./assets/6.jpg" width="100%" alt="Visual note 03">
 
 </td>
 
@@ -154,89 +470,71 @@ automation and creative tools.
 
 <tr>
 
-<td width="50%">
+<td width="33%">
 
-### 📊 Data Visualization
-
-**Turning Data Into Stories**
-
-Small experiments combining information,
-data and visual design.
-
-`Python` `Data` `Visualization`
-
-→ COMING SOON
+<img src="./assets/8.jpg" width="100%" alt="Visual note 04">
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
-### ⛏ Minecraft Lab
+<img src="./assets/9.jpg" width="100%" alt="Visual note 05">
 
-**Servers · Tools · Experiments**
+</td>
 
-A collection of small experiments around
-Minecraft servers, dashboards and automation.
+<td width="33%">
 
-`Minecraft` `Linux` `Web`
-
-→ COMING SOON
+<img src="./assets/3.jpg" width="100%" alt="Visual note 06">
 
 </td>
 
 </tr>
 </table>
 
----
-
-## `05` · GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=8B0000&icon_color=8B0000&text_color=666666" />
+</div>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=8B0000&text_color=666666" />
+<div align="center">
+
+<sub>
+
+A few things I like.
+
+Places.  
+Images.  
+Buildings.  
+Books.  
+Ideas.
+
+</sub>
 
 </div>
 
 ---
 
-## `06` · CONTRIBUTION
+<br>
 
 <div align="center">
 
-### 🐍 MY CONTRIBUTION SNAKE
+# C H E R I S H
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+### keep building
+
+<br>
+
+<a href="https://cherishyan.cn">
+
+<img src="https://img.shields.io/badge/visit_cherishyan.cn-8B0000?style=for-the-badge&logoColor=white">
+
+</a>
+
+<br><br>
+
+<sub>
+
+Central South University · 2026
+
+</sub>
 
 </div>
-
----
-
-## `07` · A LITTLE TIMELINE
-
-```text
-2024 ───────────────────────────────────────
-        Information Management
-        ↓
-        Started exploring programming
-
-2025 ───────────────────────────────────────
-        Java · SQL · Web Development
-        ↓
-        First serious experiments
-
-2026 ───────────────────────────────────────
-        AI · Design · Data Visualization
-        ↓
-        Building a real portfolio
-        ↓
-        cherisyhan.cn
-
-2027+ ──────────────────────────────────────
-        Build more
-        Ship more
-        Work remotely
-        See more of the world
