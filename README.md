@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./炫酷GitHub主页设计/animated-header.svg" width="100%" alt="CHERISHYAN" />
+<img src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/main/%E7%82%AB%E9%85%B7GitHub%E4%B8%BB%E9%A1%B5%E8%AE%BE%E8%AE%A1/animated-header.svg" width="100%" alt="CHERISHYAN" />
 
 <br/>
 
@@ -24,10 +24,10 @@
 <div align="center">
   <table><tr>
     <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dreamingGril&show_icons=true&theme=tokyonight&count_private=true" alt="dreamingGril's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dreamingGril&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=21600" alt="dreamingGril's GitHub stats" />
     </td>
     <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamingGril&layout=compact&theme=tokyonight" alt="Top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamingGril&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=21600" alt="Top languages" />
     </td>
   </tr></table>
 </div>
@@ -159,12 +159,12 @@ Reading economics and other fascinating topics. Collecting valuable thoughts, no
 *A small collection of beautiful, interesting, or meaningful moments.*
 
 <p align="center">
-  <img src="./炫酷GitHub主页设计/images/2.jpg" height="200" alt="collection" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/3.jpg" height="200" alt="collection" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/4.jpg" height="200" alt="collection" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/5.jpg" height="200" alt="collection" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/6.jpg" height="200" alt="collection" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/1.jpg" height="200" alt="collection" />
+  <img src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/main/%E7%82%AB%E9%85%B7GitHub%E4%B8%BB%E9%A1%B5%E8%AE%BE%E8%AE%A1/images/2.jpg" height="200" alt="collection" />&nbsp;
+  <img src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/main/%E7%82%AB%E9%85%B7GitHub%E4%B8%BB%E9%A1%B5%E8%AE%BE%E8%AE%A1/images/3.jpg" height="200" alt="collection" />&nbsp;
+  <img src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/main/%E7%82%AB%E9%85%B7GitHub%E4%B8%BB%E9%A1%B5%E8%AE%BE%E8%AE%A1/images/4.jpg" height="200" alt="collection" />&nbsp;
+  <img src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/main/%E7%82%AB%E9%85%B7GitHub%E4%B8%BB%E9%A1%B5%E8%AE%BE%E8%AE%A1/images/5.jpg" height="200" alt="collection" />&nbsp;
+  <img src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/main/%E7%82%AB%E9%85%B7GitHub%E4%B8%BB%E9%A1%B5%E8%AE%BE%E8%AE%A1/images/6.jpg" height="200" alt="collection" />&nbsp;
+  <img src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/main/%E7%82%AB%E9%85%B7GitHub%E4%B8%BB%E9%A1%B5%E8%AE%BE%E8%AE%A1/images/1.jpg" height="200" alt="collection" />
 </p>
 
 <br/>
@@ -178,9 +178,9 @@ Reading economics and other fascinating topics. Collecting valuable thoughts, no
 *Destinations calling · A life by the sea.*
 
 <p align="center">
-  <img src="./炫酷GitHub主页设计/images/7.jpg" height="200" alt="travel" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/8.jpg" height="200" alt="travel" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/9.jpg" height="200" alt="travel" />
+  <img src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/main/%E7%82%AB%E9%85%B7GitHub%E4%B8%BB%E9%A1%B5%E8%AE%BE%E8%AE%A1/images/7.jpg" height="200" alt="travel" />&nbsp;
+  <img src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/main/%E7%82%AB%E9%85%B7GitHub%E4%B8%BB%E9%A1%B5%E8%AE%BE%E8%AE%A1/images/8.jpg" height="200" alt="travel" />&nbsp;
+  <img src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/main/%E7%82%AB%E9%85%B7GitHub%E4%B8%BB%E9%A1%B5%E8%AE%BE%E8%AE%A1/images/9.jpg" height="200" alt="travel" />
 </p>
 
 <br/>
@@ -207,7 +207,7 @@ Interested in any of these? I’d love to hear from you.
 
 <br/>
 
-<p align="center"><img src="./炫酷GitHub主页设计/tagline.svg" width="60%" alt="Changsha now · somewhere by the sea, someday." /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/main/%E7%82%AB%E9%85%B7GitHub%E4%B8%BB%E9%A1%B5%E8%AE%BE%E8%AE%A1/tagline.svg" width="60%" alt="Changsha now · somewhere by the sea, someday." /></p>
 <p align="center"><sub>Also visit: <a href="https://dreaminggril.github.io">dreaminggril.github.io</a></sub></p>
 
 <br/>
