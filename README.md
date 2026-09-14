@@ -5,10 +5,12 @@
 <br/>
 
 ### 🌿 Welcome to my corner of the web
+<p><em>Nordic calm · Italian clarity · French editorial mood</em></p>
 
 <p>
   <a href="https://github.com/dreamingGril"><img src="https://img.shields.io/badge/GitHub-%238B1E2D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="https://cherishyan.cn"><img src="https://img.shields.io/badge/Website-%238B1E2D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>&nbsp;
+  <a href="https://dreaminggril.github.io"><img src="https://img.shields.io/badge/Homepage-%238B1E2D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage" /></a>&nbsp;
+  <a href="https://cherishyan.cn"><img src="https://img.shields.io/badge/Website-%238B1E2D?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>&nbsp;
   <a href="mailto:lyan89806@gmail.com"><img src="https://img.shields.io/badge/Email-%238B1E2D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -18,7 +20,7 @@
 
 <br/>
 
-## 📍 About Me
+## 📍 About Me · À propos
 
 <table>
 <tr>
@@ -57,13 +59,13 @@
 
 <br/>
 
-## 🚀 Projects in Progress
+## 🚀 Projects in Progress · Projets en cours
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔭 Newtonian Telescope
+### 01 · 🔭 Newtonian Telescope
 **Building a real stargazing instrument**
 
 Starting from basic optics → optical calculations → structural design → a telescope that actually works.
@@ -73,7 +75,7 @@ Starting from basic optics → optical calculations → structural design → a 
 </td>
 <td width="50%">
 
-### 📊 Data Visualization
+### 02 · 📊 Data Visualization
 **Making data beautiful and meaningful**
 
 Focus on information structure and narrative, not just pretty charts. Let readers understand without effort.
@@ -86,7 +88,7 @@ Focus on information structure and narrative, not just pretty charts. Let reader
 <tr>
 <td width="50%">
 
-### 🌐 cherishyan.cn
+### 03 · 🌐 cherishyan.cn
 **My digital home & creative lab**
 
 Long-term maintained personal IP. A place where ideas become reality.
@@ -98,7 +100,7 @@ Long-term maintained personal IP. A place where ideas become reality.
 </td>
 <td width="50%">
 
-### 📚 Economics & Notes
+### 04 · 📚 Economics & Notes
 **Thinking through books**
 
 Reading economics and other fascinating topics. Collecting valuable thoughts, notes, and questions.
@@ -115,7 +117,7 @@ Reading economics and other fascinating topics. Collecting valuable thoughts, no
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack · Carnet
 
 <p align="center">
 
@@ -130,7 +132,7 @@ Reading economics and other fascinating topics. Collecting valuable thoughts, no
 
 </p>
 
-<p align="center"><em>Tools I'm using, not things I've mastered</em></p>
+<p align="center"><em>Tools I'm using, not things I've mastered.</em></p>
 
 <br/>
 
@@ -140,7 +142,7 @@ Reading economics and other fascinating topics. Collecting valuable thoughts, no
 
 ## 🎨 Gallery · Things Worth Keeping
 
-*A small collection of beautiful, interesting, or meaningful moments*
+*A small collection of beautiful, interesting, or meaningful moments.*
 
 <p align="center">
   <img src="./炫酷GitHub主页设计/images/2.jpg" height="200" alt="collection" />&nbsp;
@@ -157,9 +159,9 @@ Reading economics and other fascinating topics. Collecting valuable thoughts, no
 
 <br/>
 
-## 🌊 Places & Dreams
+## 🌊 Places & Dreams · Sea & Nomad Life
 
-*Destinations calling · A life by the sea*
+*Destinations calling · A life by the sea.*
 
 <p align="center">
   <img src="./炫酷GitHub主页设计/images/7.jpg" height="200" alt="travel" />&nbsp;
@@ -173,9 +175,9 @@ Reading economics and other fascinating topics. Collecting valuable thoughts, no
 
 <br/>
 
-## 💭 Let's Chat About
+## 💭 Let’s Chat About
 
-Interested in any of these? I'd love to hear from you:
+Interested in any of these? I’d love to hear from you.
 
 > 🔭 Telescopes & Optics  
 > 📈 Economics & Finance  
@@ -192,9 +194,10 @@ Interested in any of these? I'd love to hear from you:
 <br/>
 
 <p align="center"><img src="./炫酷GitHub主页设计/tagline.svg" width="60%" alt="Changsha now · somewhere by the sea, someday." /></p>
+<p align="center"><sub>Also visit: <a href="https://dreaminggril.github.io">dreaminggril.github.io</a></sub></p>
 
 <br/>
 
 ---
 
-<p align="center"><em>Last updated: 2024</em></p>
+<p align="center"><em>Last updated: 2026</em></p>
