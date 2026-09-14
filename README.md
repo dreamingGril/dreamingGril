@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./炫酷GitHub主页设计/header.svg" width="100%" alt="CHERISHYAN" />
+<img src="./炫酷GitHub主页设计/animated-header.svg" width="100%" alt="CHERISHYAN" />
 
 <br/>
 
@@ -17,6 +17,20 @@
 </div>
 
 ---
+
+<br/>
+
+<!-- Profile / Stats row -->
+<div align="center">
+  <table><tr>
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=dreamingGril&show_icons=true&theme=tokyonight&count_private=true" alt="dreamingGril's GitHub stats" />
+    </td>
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamingGril&layout=compact&theme=tokyonight" alt="Top languages" />
+    </td>
+  </tr></table>
+</div>
 
 <br/>
 
@@ -200,4 +214,4 @@ Interested in any of these? I’d love to hear from you.
 
 ---
 
-<p align="center"><em>Last updated: 2026</em></p>
+<p align="center"><em>Last updated: 2026-09-14</em></p>
