@@ -4,85 +4,120 @@
 
 <br/>
 
-<a href="https://github.com/cherishyan"><img src="https://cdn.simpleicons.org/github/8B1E2D" width="16" height="16" alt="" />&nbsp; GitHub</a>&ensp;·&ensp;<a href="https://cherishyan.cn"><img src="https://cdn.simpleicons.org/web/8B1E2D" width="16" height="16" alt="" />&nbsp; Website</a>&ensp;·&ensp;<a href="mailto:lyan89806@gmail.com"><img src="https://cdn.simpleicons.org/gmail/8B1E2D" width="16" height="16" alt="" />&nbsp; Email</a>
+### 🌿 Welcome to my corner of the web
+
+<p>
+  <a href="https://github.com/dreamingGril"><img src="https://img.shields.io/badge/GitHub-%238B1E2D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://cherishyan.cn"><img src="https://img.shields.io/badge/Website-%238B1E2D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>&nbsp;
+  <a href="mailto:lyan89806@gmail.com"><img src="https://img.shields.io/badge/Email-%238B1E2D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
-<br/>
-
-<img src="./炫酷GitHub主页设计/divider.svg" width="100%" alt="" />
+---
 
 <br/>
 
-### à propos
+## 📍 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="60%">
 
-无聊的时候看看书打发时间，偶尔也会动手做一下小项目；
+🎓 **Central South University** · Changsha, China
 
-多听听音乐，事事不必美满，每天能开心快乐就行；
+📚 **Passionate about:** Economics · History · Science · Philosophy
+
+🔬 **Building:** Websites · Data Visualization · Optical Instruments
+
+🎵 **Philosophy:** Life is for enjoying, not perfecting
 
 </td>
-<td width="40%" valign="top">
+<td width="40%">
 
-<em>NOW &ensp;· Changsha, China</em><br/>
-<em>STUDY · Central South University</em><br/>
-<em>READ &ensp;· Economics · History · Science</em><br/>
-<em>MAKE · Websites · Data · Optics</em>
+<div align="center">
+  
+  **Currently** 📖 Reading
+  
+  Economics & Notes
+  
+  **Location** 🏙️ Changsha
+  
+  **Future Dream** 🌊 By the sea, living remotely
+  
+</div>
 
 </td>
 </tr>
 </table>
 
 <br/>
-<img src="./炫酷GitHub主页设计/divider.svg" width="100%" alt="" />
+
+---
+
 <br/>
 
-### projets en cours &nbsp;·&nbsp; *in progress*
+## 🚀 Projects in Progress
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-**`01`&ensp;牛顿反射式天文望远镜**&ensp;*· in progress*
+### 🔭 Newtonian Telescope
+**Building a real stargazing instrument**
 
-从基础光学开始研究，自己完成光学计算和结构设计，最终做出一台真正能用来看星星、看月亮的牛反望远镜。
+Starting from basic optics → optical calculations → structural design → a telescope that actually works.
+
+*Status:* 🟡 In Progress
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-**`02`&ensp;数据可视化**&ensp;*· in progress*
+### 📊 Data Visualization
+**Making data beautiful and meaningful**
 
-把数据做得漂漂亮亮，让读者不需要费力就能看懂。重视信息的结构和叙事，而不只是图表好不好看。
+Focus on information structure and narrative, not just pretty charts. Let readers understand without effort.
+
+*Status:* 🟡 In Progress
 
 </td>
 </tr>
-<tr><td colspan="2"><br/></td></tr>
+<tr><td colspan="2"></td></tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-**`03`&ensp;cherishyan.cn**&ensp;*· in progress*
+### 🌐 cherishyan.cn
+**My digital home & creative lab**
 
-长期维护、长期更新的个人 IP，也是我的赛博领地。&nbsp; [↗](https://cherishyan.cn)
+Long-term maintained personal IP. A place where ideas become reality.
+
+[Visit →](https://cherishyan.cn)
+
+*Status:* 🟡 Ongoing
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-**`04`&ensp;Economics & Notes**&ensp;*· in progress*
+### 📚 Economics & Notes
+**Thinking through books**
 
-阅读经济学与其他感兴趣的书，把真正值得留下来的思考、笔记和问题慢慢整理下来。
+Reading economics and other fascinating topics. Collecting valuable thoughts, notes, and questions.
+
+*Status:* 🟡 In Progress
 
 </td>
 </tr>
 </table>
 
 <br/>
-<img src="./炫酷GitHub主页设计/divider.svg" width="100%" alt="" />
+
+---
+
 <br/>
 
-### carnet &nbsp;·&nbsp; *tools I'm using, not things I've mastered*
+## 🛠️ Tech Stack
+
+<p align="center">
 
 ![HTML](https://img.shields.io/badge/HTML-8B1E2D?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-8B1E2D?style=flat-square&logo=css3&logoColor=white)
@@ -93,47 +128,73 @@
 ![Git](https://img.shields.io/badge/Git-8B1E2D?style=flat-square&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-8B1E2D?style=flat-square&logo=notion&logoColor=white)
 
-<br/>
-<img src="./炫酷GitHub主页设计/divider.svg" width="100%" alt="" />
+</p>
+
+<p align="center"><em>Tools I'm using, not things I've mastered</em></p>
+
 <br/>
 
-### la galerie &nbsp;/&nbsp; *illustrations*
+---
 
-*A small collection of things I find beautiful, interesting, or worth keeping.*
+<br/>
+
+## 🎨 Gallery · Things Worth Keeping
+
+*A small collection of beautiful, interesting, or meaningful moments*
 
 <p align="center">
-  <img src="./炫酷GitHub主页设计/images/2.jpg" height="200" alt="" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/3.jpg" height="200" alt="" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/4.jpg" height="200" alt="" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/5.jpg" height="200" alt="" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/6.jpg" height="200" alt="" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/1.jpg" height="200" alt="" />
+  <img src="./炫酷GitHub主页设计/images/2.jpg" height="200" alt="collection" />&nbsp;
+  <img src="./炫酷GitHub主页设计/images/3.jpg" height="200" alt="collection" />&nbsp;
+  <img src="./炫酷GitHub主页设计/images/4.jpg" height="200" alt="collection" />&nbsp;
+  <img src="./炫酷GitHub主页设计/images/5.jpg" height="200" alt="collection" />&nbsp;
+  <img src="./炫酷GitHub主页设计/images/6.jpg" height="200" alt="collection" />&nbsp;
+  <img src="./炫酷GitHub主页设计/images/1.jpg" height="200" alt="collection" />
 </p>
 
 <br/>
-<img src="./炫酷GitHub主页设计/divider.svg" width="100%" alt="" />
+
+---
+
 <br/>
 
-### la galerie &nbsp;/&nbsp; *sea & nomad life*
+## 🌊 Places & Dreams
 
-*Places I want to see, and a life I want to live.* &nbsp; 想去的地方，和想过的生活。
+*Destinations calling · A life by the sea*
 
 <p align="center">
-  <img src="./炫酷GitHub主页设计/images/7.jpg" height="200" alt="" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/8.jpg" height="200" alt="" />&nbsp;
-  <img src="./炫酷GitHub主页设计/images/9.jpg" height="200" alt="" />
+  <img src="./炫酷GitHub主页设计/images/7.jpg" height="200" alt="travel" />&nbsp;
+  <img src="./炫酷GitHub主页设计/images/8.jpg" height="200" alt="travel" />&nbsp;
+  <img src="./炫酷GitHub主页设计/images/9.jpg" height="200" alt="travel" />
 </p>
 
 <br/>
-<img src="./炫酷GitHub主页设计/divider.svg" width="100%" alt="" />
+
+---
+
 <br/>
 
-### contact
+## 💭 Let's Chat About
 
-想聊望远镜、经济学、信息设计、好看的网页，或者毕业以后去海边远程生活的可能性，欢迎写信。
+Interested in any of these? I'd love to hear from you:
 
-<p align="center"><a href="mailto:lyan89806@gmail.com"><img src="https://img.shields.io/badge/Email-8B1E2D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/cherishyan"><img src="https://img.shields.io/badge/GitHub-8B1E2D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
+> 🔭 Telescopes & Optics  
+> 📈 Economics & Finance  
+> 🎨 Information Design  
+> 🌐 Beautiful Websites  
+> 🏝️ Remote work by the sea
+
+<p align="center">
+  <a href="mailto:lyan89806@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Send%20me%20an%20email-%238B1E2D?style=for-the-badge" alt="Email" />
+  </a>
+</p>
 
 <br/>
 
 <p align="center"><img src="./炫酷GitHub主页设计/tagline.svg" width="60%" alt="Changsha now · somewhere by the sea, someday." /></p>
+
+<br/>
+
+---
+
+<p align="center"><em>Last updated: 2024</em></p>
