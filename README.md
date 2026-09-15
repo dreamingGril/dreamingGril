@@ -23,11 +23,14 @@
 <!-- Profile / Stats row -->
 <div align="center">
   <table><tr>
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dreamingGril&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=21600" alt="GitHub Stats" />
+    <td valign="top" align="center" width="50%">
+      <h3>📊 GitHub Activity</h3>
+      <img src="https://img.shields.io/github/followers/dreamingGril?style=social" alt="GitHub followers" /><br/>
+      <img src="https://img.shields.io/github/stars/dreamingGril?style=social" alt="GitHub stars" />
     </td>
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamingGril&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=21600" alt="Top Languages" />
+    <td valign="top" align="center" width="50%">
+      <h3>💻 Tech Stack</h3>
+      <p>JavaScript · Python · React<br/>HTML · CSS · Git</p>
     </td>
   </tr></table>
 </div>
