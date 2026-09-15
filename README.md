@@ -24,10 +24,10 @@
 <div align="center">
   <table><tr>
     <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dreamingGril&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=21600" alt="dreamingGril's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dreamingGril&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=21600" alt="GitHub Stats" />
     </td>
     <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamingGril&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=21600" alt="Top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamingGril&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=21600" alt="Top Languages" />
     </td>
   </tr></table>
 </div>
@@ -189,9 +189,9 @@ Reading economics and other fascinating topics. Collecting valuable thoughts, no
 
 <br/>
 
-## 💭 Let’s Chat About
+## 💭 Let's Chat About
 
-Interested in any of these? I’d love to hear from you.
+Interested in any of these? I'd love to hear from you.
 
 > 🔭 Telescopes & Optics  
 > 📈 Economics & Finance  
@@ -207,11 +207,11 @@ Interested in any of these? I’d love to hear from you.
 
 <br/>
 
-<p align="center"><img src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/main/%E7%82%AB%E9%85%B7GitHub%E4%B8%BB%E9%A1%B5%E8%AE%BE%E8%AE%A1/tagline.svg" width="60%" alt="Changsha now · somewhere by the sea, someday." /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/dreamingGril/dreamingGril/main/%E7%82%AB%E9%85%B7GitHub%E4%B8%BB%E9%A1%B5%E8%AE%BE%E8%AE%A1/tagline.svg" width="60%" alt="Tagline" /></p>
 <p align="center"><sub>Also visit: <a href="https://dreaminggril.github.io">dreaminggril.github.io</a></sub></p>
 
 <br/>
 
 ---
 
-<p align="center"><em>Last updated: 2026-09-14</em></p>
+<p align="center"><em>Last updated: 2026-09-15</em></p>
