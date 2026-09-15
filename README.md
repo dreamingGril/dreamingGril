@@ -20,23 +20,6 @@
 
 <br/>
 
-<!-- Profile / Stats row -->
-<div align="center">
-  <table><tr>
-    <td valign="top" align="center" width="50%">
-      <h3>📊 GitHub Activity</h3>
-      <img src="https://img.shields.io/github/followers/dreamingGril?style=social" alt="GitHub followers" /><br/>
-      <img src="https://img.shields.io/github/stars/dreamingGril?style=social" alt="GitHub stars" />
-    </td>
-    <td valign="top" align="center" width="50%">
-      <h3>💻 Tech Stack</h3>
-      <p>JavaScript · Python · React<br/>HTML · CSS · Git</p>
-    </td>
-  </tr></table>
-</div>
-
-<br/>
-
 ## 📍 About Me · À propos
 
 <table>
